@@ -115,7 +115,7 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 
 | 👥 Répertoire des Clients | ➕ Formulaire d'Ajout Client |
 | :---: | :---: |
-| <img src="doc/01_clients.png" width="460" alt="Liste des clients" /> | <img src="screenshots_github/02_modal_add_client.png" width="460" alt="Ajout d'un client" /> |
+| <img src="doc/clients.png" width="460" alt="Liste des clients" /> | <img src="doc/add_client.png" width="460" alt="Ajout d'un client" /> |
 
 | 💳 Registre des Dettes & Échéances | 📝 Ajout d'une Dette |
 | :---: | :---: |
