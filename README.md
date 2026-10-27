@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E006C&height=190&section=header&text=Tahiri+Lilatate&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36" alt="DebtFlow Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E006C&height=190&section=header&text=DebtFlow&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36" alt="DebtFlow Header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1200&color=2E006C&center=true&vCenter=true&width=750&lines=Gestion+intelligente+des+dettes+et+cr%C3%A9dits;Suivi+en+temps+r%C3%A9el+des+clients+et+r%C3%A8glements;Application+Desktop+moderne+100%25+Hors-ligne;S%C3%A9curis%C3%A9e%2C+Rapide+et+Efficace" alt="DebtFlow Animated Title" />
 
