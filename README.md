@@ -123,7 +123,7 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 
 | 💰 Historique des Règlements & Versements | 🗄️ Module d'Archivage |
 | :---: | :---: |
-| <img src="doc/payments.png" width="460" alt="Historique des paiements" /> | <img src="screenshots_github/Archive.png" width="460" alt="Archives" /> |
+| <img src="doc/paiements.png" width="460" alt="Historique des paiements" /> | <img src="doc/Archive.png" width="460" alt="Archives" /> |
 
 | ⚙️ Paramètres du Système | 🔐 Écran de Connexion Sécurisé |
 | :---: | :---: |
