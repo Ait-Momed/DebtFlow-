@@ -90,7 +90,7 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 > *Formulaire modal réactif permettant d'enregistrer un client (nom complet, téléphone, CIN, adresse) et sa dette initiale en quelques secondes.*
 
 <div align="center">
-  <img src="screenshots_github/02_demo_add_customer.gif" alt="Ajout d'un nouveau client" width="900" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="doc/02_demo_add_customer.gif" alt="Ajout d'un nouveau client" width="900" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
   <br/>
   <sub>Création rapide avec validation instantanée des champs</sub>
 </div>
@@ -101,7 +101,7 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 > *Encaissement d'un acompte, recalcul instantané du solde restant dû et mise à jour automatique des badges de statut.*
 
 <div align="center">
-  <img src="screenshots_github/03_demo_debts_payments.gif" alt="Gestion des règlements" width="900" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="doc/03_demo_debts_payments.gif" alt="Gestion des règlements" width="900" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
   <br/>
   <sub>Mise à jour en direct des statuts de paiement (Partiel / Payé)</sub>
 </div>
@@ -115,19 +115,19 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 
 | 👥 Répertoire des Clients | ➕ Formulaire d'Ajout Client |
 | :---: | :---: |
-| <img src="screenshots_github/01_clients.png" width="460" alt="Liste des clients" /> | <img src="screenshots_github/02_modal_add_client.png" width="460" alt="Ajout d'un client" /> |
+| <img src="doc/01_clients.png" width="460" alt="Liste des clients" /> | <img src="screenshots_github/02_modal_add_client.png" width="460" alt="Ajout d'un client" /> |
 
 | 💳 Registre des Dettes & Échéances | 📝 Ajout d'une Dette |
 | :---: | :---: |
-| <img src="screenshots_github/03_debts.png" width="460" alt="Registre des dettes" /> | <img src="screenshots_github/04_modal_add_debt.png" width="460" alt="Ajout d'une dette" /> |
+| <img src="doc/03_debts.png" width="460" alt="Registre des dettes" /> | <img src="screenshots_github/04_modal_add_debt.png" width="460" alt="Ajout d'une dette" /> |
 
 | 💰 Historique des Règlements & Versements | 🗄️ Module d'Archivage |
 | :---: | :---: |
-| <img src="screenshots_github/05_payments.png" width="460" alt="Historique des paiements" /> | <img src="screenshots_github/06_archive.png" width="460" alt="Archives" /> |
+| <img src="doc/05_payments.png" width="460" alt="Historique des paiements" /> | <img src="screenshots_github/06_archive.png" width="460" alt="Archives" /> |
 
 | ⚙️ Paramètres du Système | 🔐 Écran de Connexion Sécurisé |
 | :---: | :---: |
-| <img src="screenshots_github/07_settings.png" width="460" alt="Paramètres système" /> | <img src="screenshots_github/08_login.png" width="460" alt="Écran de connexion" /> |
+| <img src="doc/07_settings.png" width="460" alt="Paramètres système" /> | <img src="screenshots_github/08_login.png" width="460" alt="Écran de connexion" /> |
 
 </div>
 
