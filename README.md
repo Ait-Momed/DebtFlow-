@@ -115,19 +115,19 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 
 | 👥 Répertoire des Clients | ➕ Formulaire d'Ajout Client |
 | :---: | :---: |
-| <img src="doc/clients.png" width="460" alt="Liste des clients" /> | <img src="doc/add_client.png" width="460" alt="Ajout d'un client" /> |
+| <img src="doc/clients.png" width="460" alt="Liste des clients" /> | <img src="doc/dd_client.png" width="460" alt="Ajout d'un client" /> |
 
 | 💳 Registre des Dettes & Échéances | 📝 Ajout d'une Dette |
 | :---: | :---: |
-| <img src="doc/03_debts.png" width="460" alt="Registre des dettes" /> | <img src="screenshots_github/04_modal_add_debt.png" width="460" alt="Ajout d'une dette" /> |
+| <img src="doc/dettes.png" width="460" alt="Registre des dettes" /> | <img src="doc/add_debtt.png" width="460" alt="Ajout d'une dette" /> |
 
 | 💰 Historique des Règlements & Versements | 🗄️ Module d'Archivage |
 | :---: | :---: |
-| <img src="doc/05_payments.png" width="460" alt="Historique des paiements" /> | <img src="screenshots_github/06_archive.png" width="460" alt="Archives" /> |
+| <img src="doc/payments.png" width="460" alt="Historique des paiements" /> | <img src="screenshots_github/Archive.png" width="460" alt="Archives" /> |
 
 | ⚙️ Paramètres du Système | 🔐 Écran de Connexion Sécurisé |
 | :---: | :---: |
-| <img src="doc/07_settings.png" width="460" alt="Paramètres système" /> | <img src="screenshots_github/08_login.png" width="460" alt="Écran de connexion" /> |
+| <img src="doc/seiting.png" width="460" alt="Paramètres système" /> | <img src="doc/08_login.png" width="460" alt="Écran de connexion" /> |
 
 </div>
 
