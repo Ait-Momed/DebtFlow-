@@ -127,7 +127,7 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 
 | ⚙️ Paramètres du Système | 🔐 Écran de Connexion Sécurisé |
 | :---: | :---: |
-| <img src="doc/seiting.png" width="460" alt="Paramètres système" /> | <img src="doc/08_login.png" width="460" alt="Écran de connexion" /> |
+| <img src="doc/seiting.png" width="460" alt="Paramètres système" /> | <img src="doc/screen_test" width="460" alt="Écran de connexion" /> |
 
 </div>
 
