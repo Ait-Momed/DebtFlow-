@@ -79,7 +79,7 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 > *Navigation fluide à travers les différents modules : Connexion sécurisée, Liste des clients, Registre des dettes, Versements, Archives et Paramètres généraux.*
 
 <div align="center">
-  <img src="Carnet de dettes\gif_tools/01_demo_app_tour.gif" alt="Visite guidée de l'application" width="900" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="doc/01_demo_app_tour.gif" alt="Visite guidée de l'application" width="900" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
   <br/>
   <sub>Aperçu complet du flux de travail et de la fluidité de l'interface</sub>
 </div>
