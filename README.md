@@ -119,7 +119,7 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 
 | 💳 Registre des Dettes & Échéances | 📝 Ajout d'une Dette |
 | :---: | :---: |
-| <img src="doc/dettes.png" width="460" alt="Registre des dettes" /> | <img src="doc/add_debtt.png" width="460" alt="Ajout d'une dette" /> |
+| <img src="doc/dettes.png" width="460" alt="Registre des dettes" /> | <img src="doc/add_debt.png" width="460" alt="Ajout d'une dette" /> |
 
 | 💰 Historique des Règlements & Versements | 🗄️ Module d'Archivage |
 | :---: | :---: |
