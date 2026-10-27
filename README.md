@@ -32,11 +32,11 @@
 
 <br/><br/>
 
-<a href="https://github.com/Ait-Momed/tahiri-lilatate/releases/latest">
+<a href="https://github.com/Ait-Momed/DebtFlow/releases/latest">
   <img src="https://img.shields.io/badge/TÉLÉCHARGER_L'APPLICATION-Installer_Windows_(.exe)-2E006C?style=for-the-badge&logo=windows&logoColor=white" height="38" alt="Télécharger l'application" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Ait-Momed/tahiri-lilatate">
+<a href="https://github.com/Ait-Momed/DebtFlow">
   <img src="https://img.shields.io/badge/⭐_STAR_SUR_GITHUB-Rejoindre_le_projet-7542B8?style=for-the-badge&logo=github&logoColor=white" height="38" alt="Star sur GitHub" />
 </a>
 
@@ -47,7 +47,7 @@
 <span id="presentation"></span>
 ## 💜 Présentation
 
-**Tahiri Lilatate** est une application de bureau (Desktop) performante et élégante, développée pour simplifier et informatiser la gestion des carnets de dettes, crédits clients et règlements au sein des commerces, grossistes et entreprises.
+**DebtFlow** est une application de bureau (Desktop) performante et élégante, développée pour simplifier et informatiser la gestion des carnets de dettes, crédits clients et règlements au sein des commerces, grossistes et entreprises.
 
 Fini les carnets papier risquant d'être égarés ou détériorés : l'application centralise l'annuaire de vos clients, l'enregistrement précis de leurs dettes, le suivi des versements partiels ou totaux, ainsi que l'impression immédiate de reçus justificatifs.
 
@@ -79,7 +79,7 @@ Conçue avec une architecture **hybride WPF + WebView2** et propulsée par un mo
 > *Navigation fluide à travers les différents modules : Connexion sécurisée, Liste des clients, Registre des dettes, Versements, Archives et Paramètres généraux.*
 
 <div align="center">
-  <img src="screenshots_github/01_demo_app_tour.gif" alt="Visite guidée de l'application" width="900" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="Carnet de dettes\gif_tools/01_demo_app_tour.gif" alt="Visite guidée de l'application" width="900" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
   <br/>
   <sub>Aperçu complet du flux de travail et de la fluidité de l'interface</sub>
 </div>
